@@ -1,6 +1,6 @@
 # DES-Algorithm-JAVA
-DES (Data Encryption Standard) algorithm is a symmetric-key block cipher
-This code is java implementation of the Algorithm
+DES (Data Encryption Standard) algorithm is a symmetric-key block cipher.
+This code is java implementation of the Algorithm.
 To run the code follow below instructions:
 Please select:
 1 for encryption
